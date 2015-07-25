@@ -1,0 +1,26 @@
+{
+  "name": "inoc603.github.io",
+  "version": "1.0.0",
+  "description": "personal github page",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.0.1"
+  },
+  "devDependencies": {
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoc603/inoc603.github.io.git"
+  },
+  "author": "inoc603",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inoc603/inoc603.github.io/issues"
+  },
+  "homepage": "https://github.com/inoc603/inoc603.github.io#readme"
+}
